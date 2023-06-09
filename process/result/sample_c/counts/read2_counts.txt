@@ -1,0 +1,1 @@
+/home/leizheng/workspace/nextflow_/process/work/3b/7010596b89f885b2205e1af2f67ecb/read2_counts.txt
